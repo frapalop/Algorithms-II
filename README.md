@@ -1,5 +1,5 @@
 # Algorithms-II
-MOOC Algorithms
+MOOC Algorithms-II
 
 This is the repository I used to follow up Algorithms II
 
